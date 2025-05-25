@@ -29,7 +29,7 @@ Before running this project, make sure you have installed:
 3. **Add your nodeID and Wallet Address in the account.txt file. Example:**
 
     ```plaintext
-   123456|0x1234567
+   nodeid|0xWalletaddress
 
 4. **If you want to use a proxy, edit the proxy.txt file. Example:**
 
