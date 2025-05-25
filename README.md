@@ -24,14 +24,19 @@ Before running this project, make sure you have installed:
 2. **Install the required packages:**
 
     ```plaintext
-    npm install protobufjs axios random-useragent readline
+    npm install axios protobufjs readline ntp-client https-proxy-agent socks-proxy-agent
 
-3. **Add your nodeID and Wallet Address in the akun.txt file. Example:**
+3. **Add your nodeID and Wallet Address in the account.txt file. Example:**
 
     ```plaintext
    123456|0x1234567
 
-4. **Run the script:**
+4. **If you want to use a proxy, edit the proxy.txt file. Example:**
+
+    ```plaintext
+   http://username:password@ip:port
+
+5. **Run the script:**
    ```plaintext
    node main.js
    
