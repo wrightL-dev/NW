@@ -40,7 +40,7 @@ Before running this project, make sure you have installed:
    ```plaintext
    node main.js
    
-## Support
+## Supportt
 
 If you have any questions or need further assistance, feel free to join our Telegram channel at [t.me/tahuri01](https://t.me/tahuri01).
 
