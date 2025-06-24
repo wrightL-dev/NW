@@ -26,10 +26,10 @@ Before running this project, make sure you have installed:
     ```plaintext
     npm install axios protobufjs readline ntp-client https-proxy-agent socks-proxy-agent tweetnacl tweetnacl-util
 
-3. **Add your nodeID and Wallet Address in the account.txt file. Example:**
+3. **Add your nodeID in the account.txt file. Example:**
 
     ```plaintext
-   nodeid|0xWalletaddress
+   nodeid
 
 4. **If you want to use a proxy, edit the proxy.txt file. Example:**
 
