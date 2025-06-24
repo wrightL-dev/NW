@@ -24,7 +24,7 @@ Before running this project, make sure you have installed:
 2. **Install the required packages:**
 
     ```plaintext
-    npm install axios protobufjs readline ntp-client https-proxy-agent socks-proxy-agent
+    npm install axios protobufjs readline ntp-client https-proxy-agent socks-proxy-agent tweetnacl tweetnacl-util
 
 3. **Add your nodeID and Wallet Address in the account.txt file. Example:**
 
