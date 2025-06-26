@@ -1,5 +1,6 @@
 {
     "delay": 0,
+    "retry":10,
     "taskUrl": "https://beta.orchestrator.nexus.xyz/v3/tasks",
     "submitUrl": "https://beta.orchestrator.nexus.xyz/v3/tasks/submit"
 }
